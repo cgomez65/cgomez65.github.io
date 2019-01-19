@@ -10,10 +10,10 @@ h2 {
 p {
 	color: yellow;
 }
-.list {
+p {
 	color: black;
 }
-.hobbies {
+#hobbies {
 	text-align: center;
 }
 .ol {
@@ -31,4 +31,11 @@ body {
 .name {
 	text-align: center;
 	color: black;
+}
+
+ul {
+    list-style-position: inside;
+}
+ol {
+	list-style-position: inside;
 }
