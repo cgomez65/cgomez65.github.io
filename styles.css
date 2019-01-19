@@ -1,0 +1,34 @@
+h1 {
+	color: red;
+	text-align: center;
+}
+
+h2 {
+	color: brown;
+	font-style: italic;
+}
+p {
+	color: yellow;
+}
+.list {
+	color: black;
+}
+.hobbies {
+	text-align: center;
+}
+.ol {
+	color: brown;
+}
+.image {
+	width: 550px;
+}
+body {
+	background-image: linear-gradient(105.0deg, #41f850 -84.00%, #406f85 16.00%, #63ea4c 116.00%, #ce583f 216.00%);
+	outline-style: double;
+	outline-color: blue;
+	outline-width: 20px
+}
+.name {
+	text-align: center;
+	color: black;
+}
